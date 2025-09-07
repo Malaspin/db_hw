@@ -169,3 +169,4 @@ INSERT INTO collection_track (id_collection, id_track) VALUES
 	(5, 14), 
 	(5, 2), 
 	(5, 1);
+
