@@ -154,4 +154,3 @@ FROM
     album AS a
     INNER JOIN track_count AS tc ON a.id_album = tc.id_album
     INNER JOIN min_track_count AS mtc ON tc.cnt_track = mtc.min_cnt;
->>>>>>> 4b66e5a (InitialCommit)
